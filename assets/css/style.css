@@ -27,7 +27,7 @@ nav {
 
 .hero-info{
     height: 60%;
-    padding-top: 10%;
+    padding-top: 10% 15%;
     width: 50%;
     display: flex;
     flex-direction: column;
